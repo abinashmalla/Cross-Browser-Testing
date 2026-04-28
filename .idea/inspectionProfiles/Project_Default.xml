@@ -1,0 +1,48 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="asgiref" />
+          <option value="attrs" />
+          <option value="certifi" />
+          <option value="cffi" />
+          <option value="colorama" />
+          <option value="Django" />
+          <option value="greenlet" />
+          <option value="h11" />
+          <option value="idna" />
+          <option value="iniconfig" />
+          <option value="outcome" />
+          <option value="packaging" />
+          <option value="playwright" />
+          <option value="pluggy" />
+          <option value="pycparser" />
+          <option value="pyee" />
+          <option value="Pygments" />
+          <option value="PySocks" />
+          <option value="pytest" />
+          <option value="selenium" />
+          <option value="sniffio" />
+          <option value="sortedcontainers" />
+          <option value="sqlparse" />
+          <option value="trio" />
+          <option value="trio-websocket" />
+          <option value="typing_extensions" />
+          <option value="tzdata" />
+          <option value="urllib3" />
+          <option value="websocket-client" />
+          <option value="wsproto" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N812" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
