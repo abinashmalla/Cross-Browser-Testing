@@ -8,6 +8,8 @@ To deliver a consistent user experience, this application is continuously tested
 
 <br />
 
+## https://drive.google.com/file/d/11Afxji1y5zzhOatjOSSB86Y023vK38Ba/view?usp=sharing
+
 ### 💻 Supported Browsers & Environments
 
 | Browser | Version / Engine | Windows | macOS | Linux | iOS | Android |
